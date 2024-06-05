@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Maharshi Choksi](https://komarev.com/ghpvc/?username=maharshichoksi&color=red)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
