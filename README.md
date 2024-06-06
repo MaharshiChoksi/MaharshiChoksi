@@ -11,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
+
+
+
+<p align='center' justify>
+  <img src='https://github-readme-stats.vercel.app/api?username=maharshichoksi&theme=merko&show_icons=true&hide_border=true&count_private=true'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=maharshichoksi&theme=merko&show_icons=true&hide_border=true&layout=compact'/>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=maharshichoksi&theme=merko&hide_border=true'/>
+
+</p>
