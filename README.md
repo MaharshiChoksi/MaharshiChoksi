@@ -2,9 +2,9 @@
 Hi, I'm Maharshi 👋
 </h1>
 
-#### 🌱 I'm a Data Science enthusiast exploring the fascinating world of data. This repository is a collection of my data science projects, showcasing my journey in uncovering meaningful insights from data using various machine learning techniques.
-#### Whether you're a fellow data scientist, a curious learner, or a potential collaborator, I hope you find something valuable here.
-> #### 💬 Ask me about Data Science, ML, Data Science in Finance
+#### 🌱 I'm a Fintech enthusiast exploring the fascinating world of financial data. This repository is a collection of my technological and Finance related projects, showcasing my journey in uncovering meaningful insights from visualizing streamless dashboard to various machine learning techniques.
+#### Whether you're a fellow techie or finance person, a curious learner, or a potential collaborator, I hope you find something valuable here.
+> #### 💬 Ask me about Data, ML in Finance.
 
 <!--  PROFILE VIEWS ![Maharshi Choksi](https://komarev.com/ghpvc/?username=maharshichoksi&color=red) -->
 <!-- * 👯 I’m looking to collaborate on ... -->
